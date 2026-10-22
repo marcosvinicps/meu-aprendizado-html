@@ -7,8 +7,8 @@ Olá! Este repositório foi criado para documentar minha evolução nos estudos 
 - [x] Estrutura básica do HTML
 - [x] Títulos e parágrafos
 - [x] Listas
-- [ ] Links e imagens
-- [ ] Formulários
+- [x] Links e imagens
+- [x] Formulários
 - [ ] Introdução ao CSS
 - [ ] Projetos práticos
 
